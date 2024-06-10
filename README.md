@@ -1,7 +1,7 @@
 ### DayDream Studios
 
 ## Description
-A group of RIT students create a cat racing game on Unity. 
+A group of RIT students create a cat racing game on Unity using C#.
 
 ## Members
 Team Lead - Lisa Pham </br>
